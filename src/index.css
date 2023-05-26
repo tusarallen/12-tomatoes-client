@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.set-bg {
+  margin-top: 20px;
+  height: 80vh;
+  background-image: url("/public/banner.jpg");
+  background-size: cover;
+  background-position: top left;
+}
+
+.set-bgs {
+  border-radius: 10px;
+}
